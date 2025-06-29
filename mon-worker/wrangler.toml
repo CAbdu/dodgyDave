@@ -1,0 +1,10 @@
+name = "mon-worker"
+main = "mon-worker/src/index.js"
+compatibility_date = "2025-03-19"
+
+[vars]
+POLYGON_API_KEY = "HfqSrJCgF5v55RDLUo51f49AQvuLLy49"
+
+# Uncomment to use local development
+# [dev]
+# port = 8787 

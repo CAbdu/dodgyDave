@@ -1,0 +1,6 @@
+name = "polygon-api-worker"
+main = "polygon.js"
+compatibility_date = "2024-06-24"
+
+[vars]
+POLYGON_API_KEY = "HfqSrJCgF5v55RDLUo51f49AQvuLLy49"
